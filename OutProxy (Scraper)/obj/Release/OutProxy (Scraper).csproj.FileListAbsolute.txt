@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\OutProxy (Scraper)\OutProxy (Scraper)\bin\Release\OutProxy (Scraper).exe.config
+C:\Users\user\source\repos\OutProxy (Scraper)\OutProxy (Scraper)\bin\Release\OutProxy (Scraper).exe
+C:\Users\user\source\repos\OutProxy (Scraper)\OutProxy (Scraper)\bin\Release\OutProxy (Scraper).pdb
+C:\Users\user\source\repos\OutProxy (Scraper)\OutProxy (Scraper)\obj\Release\OutProxy__Scraper_.Form1.resources
+C:\Users\user\source\repos\OutProxy (Scraper)\OutProxy (Scraper)\obj\Release\OutProxy__Scraper_.Properties.Resources.resources
+C:\Users\user\source\repos\OutProxy (Scraper)\OutProxy (Scraper)\obj\Release\OutProxy (Scraper).csproj.GenerateResource.cache
+C:\Users\user\source\repos\OutProxy (Scraper)\OutProxy (Scraper)\obj\Release\OutProxy (Scraper).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OutProxy (Scraper)\OutProxy (Scraper)\obj\Release\OutProxy (Scraper).exe
+C:\Users\user\source\repos\OutProxy (Scraper)\OutProxy (Scraper)\obj\Release\OutProxy (Scraper).pdb
+C:\Users\user\source\repos\OutProxy (Scraper)\OutProxy (Scraper)\obj\Release\OutProxy (Scraper).csprojAssemblyReference.cache
